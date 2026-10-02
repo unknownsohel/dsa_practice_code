@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/unknownsohel/dsa_practice_code/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -49,6 +50,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
