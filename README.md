@@ -9,11 +9,13 @@
 | [0035-search-insert-position](https://github.com/unknownsohel/dsa_practice_code/tree/master/0035-search-insert-position) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0001-two-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/unknownsohel/dsa_practice_code/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
