@@ -13,6 +13,7 @@
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2574-left-and-right-sum-differences](https://github.com/unknownsohel/dsa_practice_code/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/unknownsohel/dsa_practice_code/tree/master/0301-remove-invalid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/unknownsohel/dsa_practice_code/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
