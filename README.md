@@ -18,6 +18,7 @@
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/unknownsohel/dsa_practice_code/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0001-two-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/unknownsohel/dsa_practice_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
