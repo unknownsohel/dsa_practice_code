@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/unknownsohel/dsa_practice_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/unknownsohel/dsa_practice_code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/unknownsohel/dsa_practice_code/tree/master/0118-pascals-triangle) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unknownsohel/dsa_practice_code/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/unknownsohel/dsa_practice_code/tree/master/0027-remove-element) |
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
 ## String
 |  |
