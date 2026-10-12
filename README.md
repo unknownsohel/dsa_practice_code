@@ -124,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/unknownsohel/dsa_practice_code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -158,6 +159,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/unknownsohel/dsa_practice_code/tree/master/0029-divide-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String Matching
 |  |
