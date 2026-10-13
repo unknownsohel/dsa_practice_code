@@ -23,6 +23,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -141,6 +143,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
