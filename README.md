@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/unknownsohel/dsa_practice_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/unknownsohel/dsa_practice_code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/unknownsohel/dsa_practice_code/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unknownsohel/dsa_practice_code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/unknownsohel/dsa_practice_code/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/unknownsohel/dsa_practice_code/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -139,6 +141,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Breadth-First Search
 |  |
