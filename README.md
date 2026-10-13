@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/unknownsohel/dsa_practice_code/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/unknownsohel/dsa_practice_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0001-two-sum) |
+| [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/unknownsohel/dsa_practice_code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
+| [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
@@ -150,6 +153,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/unknownsohel/dsa_practice_code/tree/master/2574-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
 |  |
@@ -180,4 +184,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
