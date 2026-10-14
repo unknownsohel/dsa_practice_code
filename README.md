@@ -14,6 +14,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/unknownsohel/dsa_practice_code/tree/master/0905-sort-array-by-parity) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/unknownsohel/dsa_practice_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -42,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/unknownsohel/dsa_practice_code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0905-sort-array-by-parity](https://github.com/unknownsohel/dsa_practice_code/tree/master/0905-sort-array-by-parity) |
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -121,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/unknownsohel/dsa_practice_code/tree/master/0905-sort-array-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
