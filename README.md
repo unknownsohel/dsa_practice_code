@@ -25,6 +25,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -37,6 +38,7 @@
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -127,6 +129,7 @@
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/unknownsohel/dsa_practice_code/tree/master/0905-sort-array-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 ## Simulation
