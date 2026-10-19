@@ -17,6 +17,7 @@
 | [0905-sort-array-by-parity](https://github.com/unknownsohel/dsa_practice_code/tree/master/0905-sort-array-by-parity) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/unknownsohel/dsa_practice_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/unknownsohel/dsa_practice_code/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
 ## Matrix
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/unknownsohel/dsa_practice_code/tree/master/0905-sort-array-by-parity) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
