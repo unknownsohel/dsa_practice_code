@@ -67,6 +67,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/unknownsohel/dsa_practice_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/unknownsohel/dsa_practice_code/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0029-divide-two-integers](https://github.com/unknownsohel/dsa_practice_code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/unknownsohel/dsa_practice_code/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
+| [2409-count-days-spent-together](https://github.com/unknownsohel/dsa_practice_code/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/unknownsohel/dsa_practice_code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
