@@ -27,6 +27,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unknownsohel/dsa_practice_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
@@ -97,6 +98,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unknownsohel/dsa_practice_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/unknownsohel/dsa_practice_code/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unknownsohel/dsa_practice_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,4 +225,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unknownsohel/dsa_practice_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unknownsohel/dsa_practice_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
