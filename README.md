@@ -32,6 +32,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
