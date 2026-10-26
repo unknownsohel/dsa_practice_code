@@ -27,6 +27,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/unknownsohel/dsa_practice_code/tree/master/0029-divide-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String Matching
 |  |
 | ------- |
