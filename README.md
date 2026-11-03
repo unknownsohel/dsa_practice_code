@@ -31,6 +31,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/unknownsohel/dsa_practice_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -154,6 +155,7 @@
 | [2409-count-days-spent-together](https://github.com/unknownsohel/dsa_practice_code/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/unknownsohel/dsa_practice_code/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/unknownsohel/dsa_practice_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Greedy
