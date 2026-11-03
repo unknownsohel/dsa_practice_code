@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/unknownsohel/dsa_practice_code/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
+| [0704-binary-search](https://github.com/unknownsohel/dsa_practice_code/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/unknownsohel/dsa_practice_code/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/unknownsohel/dsa_practice_code/tree/master/0905-sort-array-by-parity) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/unknownsohel/dsa_practice_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/unknownsohel/dsa_practice_code/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/unknownsohel/dsa_practice_code/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unknownsohel/dsa_practice_code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/unknownsohel/dsa_practice_code/tree/master/2540-minimum-common-value) |
