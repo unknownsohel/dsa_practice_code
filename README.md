@@ -33,6 +33,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unknownsohel/dsa_practice_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unknownsohel/dsa_practice_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/unknownsohel/dsa_practice_code/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/unknownsohel/dsa_practice_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -89,6 +90,7 @@
 | [0118-pascals-triangle](https://github.com/unknownsohel/dsa_practice_code/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unknownsohel/dsa_practice_code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/unknownsohel/dsa_practice_code/tree/master/3693-climbing-stairs-ii) |
 ## Manacher
 |  |
 | ------- |
