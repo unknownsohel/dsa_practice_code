@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/unknownsohel/dsa_practice_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/unknownsohel/dsa_practice_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/unknownsohel/dsa_practice_code/tree/master/0035-search-insert-position) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unknownsohel/dsa_practice_code/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/unknownsohel/dsa_practice_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unknownsohel/dsa_practice_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/unknownsohel/dsa_practice_code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -176,6 +178,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/unknownsohel/dsa_practice_code/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/unknownsohel/dsa_practice_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
