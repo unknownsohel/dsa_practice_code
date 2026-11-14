@@ -32,6 +32,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/unknownsohel/dsa_practice_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unknownsohel/dsa_practice_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/unknownsohel/dsa_practice_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/unknownsohel/dsa_practice_code/tree/master/0523-continuous-subarray-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/unknownsohel/dsa_practice_code/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/unknownsohel/dsa_practice_code/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/unknownsohel/dsa_practice_code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Ordered Set
 |  |
 | ------- |
