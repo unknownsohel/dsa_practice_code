@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unknownsohel/dsa_practice_code/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/unknownsohel/dsa_practice_code/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/unknownsohel/dsa_practice_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/unknownsohel/dsa_practice_code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unknownsohel/dsa_practice_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
